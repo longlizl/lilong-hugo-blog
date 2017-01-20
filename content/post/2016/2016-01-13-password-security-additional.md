@@ -1,6 +1,6 @@
 ---
 categories:
-- 技术文章
+- 点滴生活
 date: 2016-01-13T19:06:42+08:00
 description: "被脱裤也不怕，密码安全可以这样保障的反馈"
 keywords:

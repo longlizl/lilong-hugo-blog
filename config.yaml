@@ -19,9 +19,9 @@ Taxonomies:
   category: "categories"
 params:
   CopyrightHTML: "Copyright &#xA9; 2015. All Rights Reserved."
-  GitHubUser: "coderzh"
+  GitHubUser: "lilong"
   SidebarRecentLimit: 5
-  DateForm : "217年01月20日"
+  DateForm : "2006年01月02日"
   Tagline: "随兴而动"
   Description: "多想看下世界长什么样子。"
   Keywords: "独立博客,程序员,思考,点滴生活,技术文档"

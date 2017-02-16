@@ -1,3 +1,3 @@
 [submodule "public"]
-    path = public
-    url = git@github.com:longlizl/longlizl.github.io.git
+	path = public
+	url = git@github.com:longlizl/longlizl.github.io.git

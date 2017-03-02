@@ -9,7 +9,7 @@ title: Centos7下Discuz搭建
 url: ""
 ---
 
-废话不多说直接进去主题，我们先在Discuz官方论坛将源码下载下来 [**Discuz**](http://download.comsenz.com/DiscuzX/3.3/Discuz_X3.3_SC_UTF8.zip)
+废话不多说直接进去主题，我们先在Discuz官方论坛将源码下载下来 [Discuz](http://download.comsenz.com/DiscuzX/3.3/Discuz_X3.3_SC_UTF8.zip)
 这里为了方便我直接给出了下载地址。如果有最新版本可以直接去官网去下载。
 接下来我们将配置安装环境：  
 ### 1.首先安装环境所需软件
